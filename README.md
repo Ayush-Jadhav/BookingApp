@@ -1,11 +1,11 @@
-# 📌 BookingApp  
+# BookingApp  
 
 A full-stack **slot booking system** built with **MERN stack**, where users can sign up, log in, view available slots, and book them.  
 Booked slots display the name of the user who reserved them, and each user can view their personal bookings.  
 
 ---
 
-## 🚀 Features
+## Features
 - User **Signup & Login** (JWT Authentication)  
 - **View all slots** with real-time booking updates  
 - Shows **who booked a slot**  
@@ -14,14 +14,14 @@ Booked slots display the name of the user who reserved them, and each user can v
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend**: React, Axios, TailwindCSS  
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose  
 - **Auth**: JWT, Bcrypt.js  
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 ```bash
 # Clone repo
 git clone https://github.com/Ayush-Jadhav/BookingApp.git
